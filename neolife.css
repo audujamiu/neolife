@@ -1,0 +1,45 @@
+ .nav{
+    background-color: white;
+    background-image: url(images/flowers.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.main-nav li{
+    display: inline-block;
+    margin: 20px;
+    list-style: none;
+    text-transform: uppercase;
+    
+
+
+}
+.main-nav li a{
+    text-decoration: none;
+    color: green;
+    font-size: medium;
+    font-weight: 300;
+}
+.main-nav li a:hover{
+    color: slateblue;
+}
+p{
+    color: black;
+    font-family: cursive;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: 300;
+}
+.table a{
+    border: 5px;
+    background-color: green;
+}
+.table-danger{
+    justify-content: center;
+}
+.table-danger td{
+    text-align: center;
+}
+    text-align: center;
+}
